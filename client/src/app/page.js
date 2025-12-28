@@ -51,7 +51,7 @@ export default function Home() {
                 <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
                     <div className="flex items-center gap-3">
                         <div className="w-auto px-2 h-10  rounded-lg flex items-center justify-center">
-                            <span className="text-accent font-display font-bold text-xl">MNARS</span>
+                            <span className="text-accent font-display font-bold text-xl">PINTENREST</span>
                         </div>
                     </div>
                     <div className="flex items-center gap-6">
@@ -189,7 +189,7 @@ export default function Home() {
             {/* Footer */}
             <footer className="border-t border-primary-800 py-8 px-6">
                 <div className="max-w-7xl mx-auto text-center text-primary-500">
-                    <p>&copy; 2025 <span className="text-accent">MNARS</span> Architecture. All rights reserved.</p>
+                    <p>&copy; 2025 <span className="text-accent">PINTENREST</span> Architecture. All rights reserved.</p>
                 </div>
             </footer>
 

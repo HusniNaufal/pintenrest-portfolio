@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-    title: 'MNARS | Architecture Portfolio',
+    title: 'PINTENREST | Architecture Portfolio',
     description: 'Portfolio arsitektur digital dengan koleksi proyek perumahan, komersial, interior, dan landscape.',
     keywords: ['architecture', 'portfolio', 'design', 'interior', 'landscape'],
 }
